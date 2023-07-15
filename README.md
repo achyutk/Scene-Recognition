@@ -12,3 +12,6 @@ Run2 - In this run an ensemble of 15 one-vs-all linear classifiers using a bag-o
 Run3 - In this run he images were processed to identify key points and extract feature descriptors. By applying the Bag of Visual Words (BoVW) approach, the images were converted into feature vectors. These feature vectors were then utilized as input for various Machine Learning Algorithms to perform scene recognition. 
 1. Feature discriptors tried are: dense_sift, pyramid_dense_sift, spatial_pyramid, dense_orb, spatial_pyramid_orb , dense_brief, spatial_pyramid_brief
 2. ML algorithms tried are: SVM, Naive Bayes and Random Forest,
+
+
+The dataset used for this proejct was provided by the University of Southampton.
